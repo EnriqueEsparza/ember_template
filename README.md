@@ -6,6 +6,9 @@ Describe:
 
 Built using: JavaScript, jQuery-1.11.3js , HTML, CSS, Ember-1.12.0, Bootstrap
 
+to start server: python -m SimpleHTTPServer
+go to 127.0.0.1:8000 on browser
+
 
 
 MIT License: Copyright (c) 2009-2015 Plataformatec http://plataformatec.com.br/
